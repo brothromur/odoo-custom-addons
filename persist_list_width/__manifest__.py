@@ -1,7 +1,7 @@
 {
     'name': "Column Width Persistance",
     'version': '1.0',
-    'depends': ['base', 'crm', 'web'],
+    'depends': ['base', 'web'],
     'author': "Omar Wael",
     'category': 'Category',
     'data': [
